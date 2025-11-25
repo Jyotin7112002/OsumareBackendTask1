@@ -1,0 +1,5 @@
+com\OsumareCompanyBackend\Service\userServices.class
+com\OsumareCompanyBackend\OsumareCompanyBackendApplication.class
+com\OsumareCompanyBackend\Controller\UserController.class
+com\OsumareCompanyBackend\Repository\Repo.class
+com\OsumareCompanyBackend\Entity\User.class
